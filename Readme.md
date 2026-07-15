@@ -95,16 +95,6 @@ Display Response
 
 ---
 
-## 📸 Application Screenshot
-
-Add your chatbot screenshot to the `screenshots` folder and update the file name if necessary.
-
-```markdown
-![Chat Interface](screenshots/chatbot-ui.png)
-```
-
----
-
 ## ✨ Key Features
 
 - Real-time AI conversation
